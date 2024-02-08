@@ -3,15 +3,8 @@ A command line tool to look up and store county information for cities in Montan
 
 To install, run:
 ```bash
-git clone https://github.com/me/repo
-cd repo
-python main.py 1-12345
+git clone [https://github.com/me/repo](https://github.com/jforseth210/MontanaCountyLookup)
+cd MontanaCountyLookup
+python main.py
 ```
-Installation requires python and git to be installed.
-
-You can also prompt for plates interactively using
-```bash
-python main.py --interactive
-```
-
-For additional information, run `python main.py --help`
+Follow the prompts on screen
